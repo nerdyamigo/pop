@@ -1,6 +1,6 @@
 #!/bin/sh
 cat << EOF
 
-echo $("/usr/local/bin/score 2d5440ba-4e5d-4224-9132-cad03f9aa758")
+/usr/local/bin/score 2d5440ba-4e5d-4224-9132-cad03f9aa758
 
 EOF
